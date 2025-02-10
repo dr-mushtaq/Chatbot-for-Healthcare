@@ -45,9 +45,9 @@ This repository aims to provide a structured roadmap for students working on the
 📌 Sentiment Analysis on Movie Reviews – Implementing text classification using ML models.
 📌 Hate Speech Detection – ML techniques for detecting harmful online content.
 
-## **Usag👋🛒**
+## **How to Use This Repository? 🔍**
 
-Explore the repository's contents, delve into projects and resources aligned with your interests, and leverage the provided materials to enhance your skills and knowledge in Machine Learning, Deep Learning, Computer Vision, NLP, and research endeavors.
+✅ Choose Your Project – Browse the list of projects and select one that matches your interest.✅ Read Documentation – Follow the README files and final-year project guidelines.✅ Run the Code – Use Jupyter Notebook or Google Colab to experiment with models.✅ Modify & Enhance – Extend the project with additional features or research-based improvements.✅ Write Final Report – Use our templates to create your final project documentation.
 
 ## **Contributing🙌**
 
