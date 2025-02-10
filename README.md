@@ -42,7 +42,7 @@ This repository aims to provide a structured roadmap for students working on the
 4️⃣ NLP-Based Projects
 
 📌 Chatbot for Education – AI-based chatbot to assist students with FAQs.
-📌 Sentiment Analysis on Movie Reviews – Implementing text classification using ML models.
+📌 Chatbot Development for Healthcare Assistants using ERPNext and Android – AI-based chatbot to assist docotor with FAQs.
 📌 Hate Speech Detection – ML techniques for detecting harmful online content.
 
 ## **How to Use This Repository? 🔍**
