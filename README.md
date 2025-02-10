@@ -4,6 +4,10 @@
 <img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
 </p>
 
+<p align="center">
+<img src="https://github.com/dr-mushtaq/VU-Undergraduate-Final-Year-Projects/blob/main/DALL%C2%B7E%202025-02-10%2012.41.28%20-%20A%20professional%20university-themed%20banner%20for%20the%20'VU%20Undergraduate%20Final%20Year%20Projects'%20repository.%20The%20banner%20should%20include___-%20A%20background%20of%20a%20mod.webp"></a>
+</p>
+
 Welcome to the Virtual University Undergraduate Final Year Projects Repository. This platform is designed to help students explore Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects for their final year. This comprehensive collection serves as a hub for learning, implementation, and research to help students build high-quality projects.
 
 ## **Overview 🎯**
