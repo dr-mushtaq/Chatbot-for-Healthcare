@@ -1,14 +1,14 @@
 
-## **VU Undergraduate Final Year Projects Guide 👨‍🎓📚👋🛒**
+## **VU Undergraduate Final Year Projects Guide 👨‍🎓📚**
 <p align="center">
 <img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
 </p>
 
 Welcome to the Virtual University Undergraduate Final Year Projects Repository. This platform is designed to help students explore Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects for their final year. This comprehensive collection serves as a hub for learning, implementation, and research to help students build high-quality projects.
 
-## **Overview👋🛒**
+## **Overview 🎯**
 
-This repository aims to provide a holistic view of cutting-edge technologies and research trends in the fields of Machine Learning, Deep Learning, Computer Vision, NLP, and beyond. Whether you're a novice eager to learn or a seasoned practitioner seeking inspiration, this repository offers a diverse range of projects and resources to cater to your interests and expertise.
+This repository aims to provide a structured roadmap for students working on their final-year projects at Virtual University (VU). Whether you are focusing on AI, data science, or research-based projects, this repository will guide you through project selection, documentation, implementation, and evaluation.
 
 ## **Features👋🛒**
 
