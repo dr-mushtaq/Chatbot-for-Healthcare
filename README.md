@@ -394,7 +394,7 @@ We would love your help in making this repository even better! If you know of an
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
-<a href="https://github.com/hussain0048/Projects-/graphs/contributors">
+<a href="https://github.com/dr-mushtaq/VU-Undergraduate-Final-Year-Projects/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Projects-" />
 </a>
 
