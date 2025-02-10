@@ -1,10 +1,10 @@
 
-## **A-Z Guide to Machine Learning Projects👋🛒**
+## **VU Undergraduate Final Year Projects Guide 👨‍🎓📚👋🛒**
 <p align="center">
 <img src="https://github.com/hussain0048/Projects/blob/master/Projects%20(1)%20(1).png"></a>
 </p>
 
-Welcome to the repository covering a wide array of topics including Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects. This comprehensive collection serves as a hub for exploring various facets of artificial intelligence and research endeavors.
+Welcome to the Virtual University Undergraduate Final Year Projects Repository. This platform is designed to help students explore Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects for their final year. This comprehensive collection serves as a hub for learning, implementation, and research to help students build high-quality projects.
 
 ## **Overview👋🛒**
 
