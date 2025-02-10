@@ -47,26 +47,25 @@ This repository aims to provide a structured roadmap for students working on the
 
 ## **How to Use This Repository? 🔍**
 
-✅ Choose Your Project – Browse the list of projects and select one that matches your interest.✅ Read Documentation – Follow the README files and final-year project guidelines.✅ Run the Code – Use Jupyter Notebook or Google Colab to experiment with models.✅ Modify & Enhance – Extend the project with additional features or research-based improvements.✅ Write Final Report – Use our templates to create your final project documentation.
+✅ Choose Your Project – Browse the list of projects and select one that matches your interest.
+✅ Read Documentation – Follow the README files and final-year project guidelines.
+✅ Run the Code – Use Jupyter Notebook or Google Colab to experiment with models.
+✅ Modify & Enhance – Extend the project with additional features or research-based improvements.
+✅ Write Final Report – Use our templates to create your final project documentation.
 
-## **Contributing🙌**
+## **Contribution Guidelines🤝**
 
-Contributions are encouraged and appreciated! Whether it's adding new projects, improving existing content, fixing bugs, or suggesting enhancements, your contributions play a vital role in enriching the repository for the benefit of the community. Please contact me on my skype ID:**themushtaq48, email:mushtaqmsit@gmail.com** for contribution.
+Students are encouraged to contribute by adding their projects, improving documentation, and sharing research insights. Contact Dr. Mushtaq at mushtaqmsit@gmail.com for collaboration.
 
 Together, let's make this the best AI learning hub repository! 🚀
 
                           https://coursesteach.com/
 
- ## **📬Contact**
+ ## **📬 Contact & Resources**
    
-   If you want to contact me, you can reach me through social handles.
-   
-[![](https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white)](https://www.youtube.com/@coursesteach-mv5si/videos)
-[![](https://img.shields.io/badge/Medium-000000?&style=plastic&logo=medium&logoColor=white)](https://medium.com/@Coursesteach)
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/90909828/admin/dashboard/)
-[![](https://img.shields.io/badge/Twitter-darkgreen?&style=plastic&logo=twitter&logoColor=white)](https://twitter.com/Mushtaq03361498)
-[![](https://img.shields.io/badge/whatsapp-32012F?style=plastic&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/L9URPRThBEa7GFl0mlwggg)
-[![](https://img.shields.io/badge/Kaggle-darkblue?style=plastic&logo=Kaggle&logoColor=white)](https://www.kaggle.com/organizations/courseteach/invite/4c839a825abc44c9a1aebd8e9cc8d94c)
+For further guidance, reach out via social media:
+
+Let's build innovative final-year projects and make learning impactful! 🚀
 
 
 
