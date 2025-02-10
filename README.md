@@ -20,8 +20,30 @@ This repository aims to provide a structured roadmap for students working on the
 
 **Collaborative Environment:** Foster collaboration, knowledge sharing, and community engagement through contributions, discussions, and feedback, promoting continuous learning and innovation.
 
-## **Contents👋🛒**
-✔ Project Categories – Well-structured sections for Machine Learning, Deep Learning, Computer Vision, NLP, and more.✔ Hands-on Implementation – Access to ready-to-run Jupyter Notebooks and Colab links.✔ Final Year Report Guidelines – Templates and documentation guidance for thesis writing.✔ Research Papers & Datasets – Resources to support AI research and experimentation.✔ Collaboration & Mentorship – Engage with peers and experts for feedback and guidance.
+## **Project Categories📂**
+1️⃣ Machine Learning Projects
+
+📌 Stock Price Prediction – Linear regression model with dataset preprocessing and visualization.
+📌 Spam Detection using ML – Naive Bayes, SVM classifiers, and text preprocessing.
+📌 Credit Card Fraud Detection – Implementing anomaly detection with Autoencoders.
+
+2️⃣ Deep Learning Projects
+
+📌 Emotion Detection – CNN-based model for real-time emotion recognition.
+📌 Traffic Sign Classification – Using CNN and OpenCV for real-time sign detection.
+📌 Age & Gender Prediction – Deep learning-based classification using images.
+
+3️⃣ Computer Vision Projects
+
+📌 Handwritten Digit Recognition – Implementing CNN on MNIST dataset.
+📌 Face Mask Detection – Real-time detection using OpenCV and TensorFlow.
+📌 Image Preprocessing Techniques – Applying various preprocessing methods to enhance image data.
+
+4️⃣ NLP-Based Projects
+
+📌 Chatbot for Education – AI-based chatbot to assist students with FAQs.
+📌 Sentiment Analysis on Movie Reviews – Implementing text classification using ML models.
+📌 Hate Speech Detection – ML techniques for detecting harmful online content.
 
 ## **Usag👋🛒**
 
