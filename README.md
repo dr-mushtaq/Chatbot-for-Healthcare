@@ -95,6 +95,16 @@ The system consists of three main components:
 
 - Test with a small-scale group of healthcare assistants.
 
+**Phase 2**: Expansion (1–2 months)
+
+- Enhance chatbot AI for improved decision support.
+
+- Enable vitals entry and sync with ERPNext’s medical records.
+
+- Integrate telemedicine features for remote consultation.
+
+- Pilot with multiple HAs in different clinics.
+
 ## **Contribution Guidelines🤝**
 
 Students are encouraged to contribute by adding their projects, improving documentation, and sharing research insights. Contact Dr. Mushtaq at mushtaqmsit@gmail.com for collaboration.
