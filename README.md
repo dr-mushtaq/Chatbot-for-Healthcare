@@ -54,7 +54,7 @@ The system consists of three main components:
 
 - **Automated suggestions** for home care or hospital referrals.
 
-## **Features 📌**
+## **Key Features 📌**
 
 **Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
 
