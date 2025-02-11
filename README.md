@@ -125,11 +125,17 @@ The system consists of three main components:
 
 - Future enhancements with AI-driven diagnostics.
 
- ## **📬 Contact & Resources**
+ ## **Next Steps**
    
-For further guidance, reach out via social media:
+1- Deploy ERPNext Healthcare backend and test API integrations.
 
-Let's build innovative final-year projects and make learning impactful! 🚀
+2- Develop an Android chatbot prototype for patient interaction.
+
+3- Conduct initial testing with healthcare professionals.
+
+4- Refine chatbot and ERPNext workflows based on feedback.
+
+5-Expand to a wider network of clinics and healthcare providers.
 
 
 
