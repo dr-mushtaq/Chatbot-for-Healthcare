@@ -28,23 +28,23 @@ The system consists of three main components:
 
 1. **ERPNext Backend**
 
-   1- **ERPNext Healthcare Module** for patient records, encounters, and referrals.
+   - **ERPNext Healthcare Module** for patient records, encounters, and referrals.
 
-   2-  **REST API (Frappe Framework)** for integration with the Android app.
+   -  **REST API (Frappe Framework)** for integration with the Android app.
 
-   3-  **User authentication** using API keys or OAuth.
+   -  **User authentication** using API keys or OAuth.
 
-   4-  **Self-hosted or cloud-based ERPNext instance** (e.g., Frappe Cloud, Docker setup).
+   -  **Self-hosted or cloud-based ERPNext instance** (e.g., Frappe Cloud, Docker setup).
 
 2. **Android App**
 
-Chatbot interface for guiding HAs through patient intake and triage.
+- **Chatbot interface** for guiding HAs through patient intake and triage.
 
-Data entry fields for vitals (BP, heart rate, temperature, SpO2, etc.).
+- **Data entry fields** for vitals (BP, heart rate, temperature, SpO2, etc.).
 
-ERPNext API integration for real-time patient record updates.
+- **ERPNext API integration** for real-time patient record updates.
 
-Referral and telemedicine integration for critical cases.
+- **Referral and telemedicine integration** for critical cases.
 
 3. AI-Driven Chatbot
 
