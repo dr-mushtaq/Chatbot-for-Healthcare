@@ -28,13 +28,13 @@ The system consists of three main components:
 
 1. **ERPNext Backend**
 
-   - **ERPNext Healthcare Module** for patient records, encounters, and referrals.
+ - **ERPNext Healthcare Module** for patient records, encounters, and referrals.
 
-   -  **REST API (Frappe Framework)** for integration with the Android app.
+ -  **REST API (Frappe Framework)** for integration with the Android app.
 
-   -  **User authentication** using API keys or OAuth.
+ -  **User authentication** using API keys or OAuth.
 
-   -  **Self-hosted or cloud-based ERPNext instance** (e.g., Frappe Cloud, Docker setup).
+ -  **Self-hosted or cloud-based ERPNext instance** (e.g., Frappe Cloud, Docker setup).
 
 2. **Android App**
 
@@ -46,13 +46,13 @@ The system consists of three main components:
 
 - **Referral and telemedicine integration** for critical cases.
 
-3. AI-Driven Chatbot
+3. **AI-Driven Chatbot**
 
-Symptom checker using decision trees or AI (Rasa NLU, Dialogflow).
+- **Symptom checker** using decision trees or AI (Rasa NLU, Dialogflow).
 
-Guided questions for structured diagnosis.
+- **Guided questions** for structured diagnosis.
 
-Automated suggestions for home care or hospital referrals.
+- **Automated suggestions** for home care or hospital referrals.
 
 ## **Features 📌**
 
