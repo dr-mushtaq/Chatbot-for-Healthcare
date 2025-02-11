@@ -2,7 +2,7 @@
 ## **Chatbot Development for Healthcare Assistants using ERPNext and Android👨‍🎓📚**
 
 <p align="center">
-<img src="https://github.com/dr-mushtaq/VU-Undergraduate-Final-Year-Projects/blob/main/DALL%C2%B7E%202025-02-10%2012.41.28%20-%20A%20professional%20university-themed%20banner%20for%20the%20'VU%20Undergraduate%20Final%20Year%20Projects'%20repository.%20The%20banner%20should%20include___-%20A%20background%20of%20a%20mod.webp"></a>
+<img src="https://github.com/dr-mushtaq/VU-Undergraduate-Final-Year-Projects/blob/main/DALL%C2%B7E%202025-02-11%2012.33.15%20-%20A%20modern%20healthcare%20technology%20banner%20featuring%20a%20chatbot%20assisting%20a%20nurse%20with%20patient%20data%20entry%20on%20a%20tablet.%20The%20background%20includes%20medical%20icons.webp"></a>
 </p>
 
 ## **Overview 🎯**
