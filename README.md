@@ -105,6 +105,16 @@ The system consists of three main components:
 
 - Pilot with multiple HAs in different clinics.
 
+**Phase 3:** Full Deployment (3+ months)
+
+- Expand deployment to broader healthcare settings.
+
+- Train HAs on chatbot and ERPNext usage.
+
+- Monitor system performance and patient outcomes.
+
+- Optimize for scalability and nationwide expansion.
+
 ## **Contribution Guidelines🤝**
 
 Students are encouraged to contribute by adding their projects, improving documentation, and sharing research insights. Contact Dr. Mushtaq at mushtaqmsit@gmail.com for collaboration.
