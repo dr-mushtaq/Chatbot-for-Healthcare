@@ -28,9 +28,9 @@ The system consists of three main components:
 
 1. **ERPNext Backend**
 
-1- **ERPNext Healthcare Module** for patient records, encounters, and referrals.
+   1- **ERPNext Healthcare Module** for patient records, encounters, and referrals.
 
-2-  **REST API (Frappe Framework)** for integration with the Android app.
+   2-  **REST API (Frappe Framework)** for integration with the Android app.
 
 User authentication using API keys or OAuth.
 
