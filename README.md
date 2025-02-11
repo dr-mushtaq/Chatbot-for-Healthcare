@@ -83,6 +83,14 @@ The system consists of three main components:
 
 ## **Technology Stack📂**
 
+1. **Backend (EMR)** : ERPNext Healthcare
+2. **Chatbot AI**: Rasa NLU / Dialogflow
+3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
+4. **Visualization and Analytical Tools**: Tableau, Matplotlib, Seaborn, PowerBI
+5. **Machine Learning Skills** - Data Preprocessing, Data Visualization , Model Validation and peformance, Regression, Classification, Neural network analysis
+6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
+
+
 ## **Development Plan🔍**
 
 **Phase 1**: Prototype Development (2–4 weeks)
