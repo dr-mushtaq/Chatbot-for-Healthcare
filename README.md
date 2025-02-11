@@ -80,7 +80,10 @@ The system consists of three main components:
 
 - Direct doctor-patient chat via ERPNext and the app.
 
-## **Project Categories📂**
+
+## **Technology Stack📂**
+
+
 1️⃣ Machine Learning Projects
 
 📌 Stock Price Prediction – Linear regression model with dataset preprocessing and visualization.
