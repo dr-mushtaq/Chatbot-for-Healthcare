@@ -64,6 +64,14 @@ The system consists of three main components:
 
 - Automatic referral generation for high-risk cases.
 
+3. **ERPNext Integration**
+
+- Creates new patient records if not found in ERPNext.
+
+- Stores encounter details in ERPNext’s database.
+
+- Assigns referral cases to doctors within ERPNext.
+
 ## **Project Categories📂**
 1️⃣ Machine Learning Projects
 
