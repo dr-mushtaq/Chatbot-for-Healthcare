@@ -56,13 +56,13 @@ The system consists of three main components:
 
 ## **Key Features 📌**
 
-**Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
+1. **Chatbot-Assisted Patient Triage**
 
-**Hands-On Projects:** Explore practical implementations of algorithms, models, and techniques through hands-on projects, code examples, and Jupyter notebooks, designed to enhance your understanding and foster experimentation.
+- Structured questioning for symptom analysis.
 
-**Research Endeavors:** Engage with research projects, papers, datasets, and experiments, providing insights into the latest advancements and methodologies in artificial intelligence and related fields.
+- AI-driven decision support for severity assessment.
 
-**Collaborative Environment:** Foster collaboration, knowledge sharing, and community engagement through contributions, discussions, and feedback, promoting continuous learning and innovation.
+- Automatic referral generation for high-risk cases.
 
 ## **Project Categories📂**
 1️⃣ Machine Learning Projects
