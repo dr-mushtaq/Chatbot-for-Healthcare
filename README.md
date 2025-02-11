@@ -22,6 +22,38 @@ This repository contains the development of a chatbot-based patient interaction 
 
 5- Enable telemedicine referrals for severe cases using Jitsi Meet/Twilio API.
 
+## **System Architecture🎯**
+
+The system consists of three main components:
+
+1. **ERPNext Backend**
+
+ERPNext Healthcare Module for patient records, encounters, and referrals.
+
+REST API (Frappe Framework) for integration with the Android app.
+
+User authentication using API keys or OAuth.
+
+Self-hosted or cloud-based ERPNext instance (e.g., Frappe Cloud, Docker setup).
+
+2. **Android App**
+
+Chatbot interface for guiding HAs through patient intake and triage.
+
+Data entry fields for vitals (BP, heart rate, temperature, SpO2, etc.).
+
+ERPNext API integration for real-time patient record updates.
+
+Referral and telemedicine integration for critical cases.
+
+3. AI-Driven Chatbot
+
+Symptom checker using decision trees or AI (Rasa NLU, Dialogflow).
+
+Guided questions for structured diagnosis.
+
+Automated suggestions for home care or hospital referrals.
+
 ## **Features 📌**
 
 **Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
