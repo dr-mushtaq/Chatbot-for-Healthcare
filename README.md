@@ -1,16 +1,13 @@
 
-## **VU Undergraduate Final Year Projects Guide 👨‍🎓📚**
+## **Chatbot Development for Healthcare Assistants using ERPNext and Android👨‍🎓📚**
 
 <p align="center">
 <img src="https://github.com/dr-mushtaq/VU-Undergraduate-Final-Year-Projects/blob/main/DALL%C2%B7E%202025-02-10%2012.41.28%20-%20A%20professional%20university-themed%20banner%20for%20the%20'VU%20Undergraduate%20Final%20Year%20Projects'%20repository.%20The%20banner%20should%20include___-%20A%20background%20of%20a%20mod.webp"></a>
 </p>
 
-Welcome to the Virtual University Undergraduate Final Year Projects Repository. This platform is designed to help students explore Machine Learning, Deep Learning, Computer Vision, Natural Language Processing (NLP), and Research Projects for their final year. This comprehensive collection serves as a hub for learning, implementation, and research to help students build high-quality projects.
-
 ## **Overview 🎯**
 
-This repository aims to provide a structured roadmap for students working on their final-year projects at Virtual University (VU). Whether you are focusing on AI, data science, or research-based projects, this repository will guide you through project selection, documentation, implementation, and evaluation.
-
+This repository contains the development of a chatbot-based patient interaction system using ERPNext Healthcare as the backend and an Android app as the primary interface. The system assists Healthcare Assistants (HAs) and nurses in patient triage, data collection, and referral management, ensuring seamless integration with ERPNext's electronic medical records (EMR) module.
 ## **Features 📌**
 
 **Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
