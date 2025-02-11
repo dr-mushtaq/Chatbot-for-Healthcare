@@ -32,9 +32,9 @@ The system consists of three main components:
 
    2-  **REST API (Frappe Framework)** for integration with the Android app.
 
-User authentication using API keys or OAuth.
+   3-  **User authentication** using API keys or OAuth.
 
-Self-hosted or cloud-based ERPNext instance (e.g., Frappe Cloud, Docker setup).
+   4-  **Self-hosted or cloud-based ERPNext instance** (e.g., Frappe Cloud, Docker setup).
 
 2. **Android App**
 
