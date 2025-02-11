@@ -85,10 +85,12 @@ The system consists of three main components:
 
 1. **Backend (EMR)** : ERPNext Healthcare
 2. **Chatbot AI**: Rasa NLU / Dialogflow
-3. **Tools** : Streamlit , Jupyter Notebook, Google Collab, Pycaret
-4. **Visualization and Analytical Tools**: Tableau, Matplotlib, Seaborn, PowerBI
-5. **Machine Learning Skills** - Data Preprocessing, Data Visualization , Model Validation and peformance, Regression, Classification, Neural network analysis
-6. **Computer Vision Skills** - Image Preprocessing, Image Visualization, image Classification 
+3. **Android App** : Streamlit/Flask/Dajango
+4. **API Management**: ERPNext REST API (Frappe)
+5. **Database** - MariaDB (default in ERPNext)
+6. **Hosting** - Self-hosted (Docker) / Frappe Cloud
+7. **Telemedicine** - Jitsi Meet / Twilio Video API
+
 
 
 ## **Development Plan🔍**
