@@ -72,6 +72,14 @@ The system consists of three main components:
 
 - Assigns referral cases to doctors within ERPNext.
 
+4. **Telemedicine & Emergency Referral System**
+
+- Jitsi Meet / Twilio API integration for video calls.
+
+- WhatsApp/SMS-based alerts for urgent cases.
+
+- Direct doctor-patient chat via ERPNext and the app.
+
 ## **Project Categories📂**
 1️⃣ Machine Learning Projects
 
