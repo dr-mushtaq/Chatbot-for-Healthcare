@@ -8,6 +8,20 @@
 ## **Overview 🎯**
 
 This repository contains the development of a chatbot-based patient interaction system using ERPNext Healthcare as the backend and an Android app as the primary interface. The system assists Healthcare Assistants (HAs) and nurses in patient triage, data collection, and referral management, ensuring seamless integration with ERPNext's electronic medical records (EMR) module.
+
+
+## **Objectives🎯**
+
+1- Utilize ERPNext Healthcare as a scalable and open-source backend.
+
+2- Develop an Android app with a chatbot interface for patient triage and data entry.
+
+3- Automate patient record management using ERPNext’s REST API.
+
+4- Provide AI-driven decision support through structured triage and symptom analysis.
+
+5- Enable telemedicine referrals for severe cases using Jitsi Meet/Twilio API.
+
 ## **Features 📌**
 
 **Multifaceted Coverage:** Dive into a rich spectrum of topics including traditional Machine Learning algorithms, advanced Deep Learning architectures, Computer Vision techniques, NLP applications, and research projects spanning different domains.
