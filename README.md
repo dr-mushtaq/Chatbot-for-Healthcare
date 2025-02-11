@@ -137,7 +137,22 @@ The system consists of three main components:
 
 5-Expand to a wider network of clinics and healthcare providers.
 
+This project will modernize patient interactions, improve efficiency for healthcare assistants, and integrate seamlessly with ERPNext Healthcare for structured record management.
 
+🚀 Let's move forward with prototype development!
+
+
+ ## **📬 Contact**
+
+ For inquiries and contributions, contact Dr. Mushtaq at:
+
+- Email: mushtaqmsit@gmail.com
+
+- LinkedIn: Company LinkedIn
+
+- YouTube: CoursesTeach
+
+- Website: CoursesTeach
 
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
