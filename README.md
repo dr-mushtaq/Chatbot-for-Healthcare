@@ -115,13 +115,15 @@ The system consists of three main components:
 
 - Optimize for scalability and nationwide expansion.
 
-## **Contribution Guidelines🤝**
+## **Sustainability & Future Roadmap🤝**
 
-Students are encouraged to contribute by adding their projects, improving documentation, and sharing research insights. Contact Dr. Mushtaq at mushtaqmsit@gmail.com for collaboration.
+- Monetization model: Micro-fees for telemedicine consultations.
 
-Together, let's make this the best AI learning hub repository! 🚀
+- NGO and health organization partnerships for funding and support.
 
-                          https://coursesteach.com/
+- Integration with private hospital systems for referrals.
+
+- Future enhancements with AI-driven diagnostics.
 
  ## **📬 Contact & Resources**
    
