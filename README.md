@@ -156,13 +156,13 @@ This project will modernize patient interactions, improve efficiency for healthc
 
  For inquiries and contributions, contact Dr. Mushtaq at:
 
-- Email: mushtaqmsit@gmail.com
+- Email: mushtaqmsit@gmail.com, Skype ID:themushtaq48
 
 - LinkedIn: Company LinkedIn
 
-- YouTube: CoursesTeach
+- YouTube: [CoursesTeach](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-- Website: CoursesTeach
+- Website: [CoursesTeach](https://coursesteach.com/)
 
 <details> 
 <summary> <h2>Projects 01 - ⚙️Machine Learning </h2> </summary>
