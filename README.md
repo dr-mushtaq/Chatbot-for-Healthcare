@@ -158,7 +158,7 @@ This project will modernize patient interactions, improve efficiency for healthc
 
 - Email: mushtaqmsit@gmail.com, Skype ID:themushtaq48
 
-- LinkedIn: Company LinkedIn
+- LinkedIn: [Company LinkedIn](https://www.linkedin.com/in/mushtaq-hussain-21417814/)
 
 - YouTube: [CoursesTeach](https://www.youtube.com/@coursesteach-mv5si/videos)
 
