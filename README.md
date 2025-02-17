@@ -234,7 +234,7 @@ This project will modernize patient interactions, improve efficiency for healthc
 </details>
 
 <details> 
-<summary> <h2>Projects 06 - ⚙️ Research </h2> </summary>
+<summary> <h2>Projects 06 - ⚙️ Road Map </h2> </summary>
  
 ##  📚Chapter: 1  **Projects Details**
 
