@@ -236,13 +236,13 @@ This project will modernize patient interactions, improve efficiency for healthc
 <details> 
 <summary> <h2>Category 06 - ⚙️ Road Map </h2> </summary>
  
-##  📚Chapter: 1  **Projects Details**
+##  📚Chapter: 1  **Database**
 
 | Project Title | Datasets | Code |
 |---|---|---|
 | [**1-Building education chatbot for decreasing instructor workload in e-learning system**](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
 
-##  📚Chapter: 2  **Model metrics benchmarks**
+##  📚Chapter: 2  **Machine Learning**
 
 |   | f1  | precision  |  recall |  accuracy | training_time  |  inference_time |
 |---|---|---|---|---|---|---|
