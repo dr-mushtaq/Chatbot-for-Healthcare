@@ -260,7 +260,7 @@ This project will modernize patient interactions, improve efficiency for healthc
 | Title | Category | Type |
 |---|---|---|
 | [**1-ERPNext 15 Installation Docker on Windows // Step by Step Tutorial**](https://www.youtube.com/watch?v=IP8NpcvcIDk)|Youtube Video|Colab NoteBook|
-|[**2-500 + 𝗔𝗿𝘁𝗶𝗳𝗶𝗰𝗶𝗮𝗹 𝗜𝗻𝘁𝗲𝗹𝗹𝗶𝗴𝗲𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝘀𝘁 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲**](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?fbclid=IwAR2DG1CQAT96fZ3I9GeY4knAZG91mnIlfHNMCjjRbiwnc9n-x4XzgS-E4oo)|NLP,DL,CV| All|
+|[**2-Let’s Build HealthIQ AI — A Vertical AI Agent System**](https://medium.com/@learn-simplified/lets-build-healthiq-ai-a-vertical-ai-agent-system-72c40a4560ad)|medium Blog| All|
 |[**3-ML-ProjectKart**](https://github.com/prathimacode-hub/ML-ProjectKart)|ML|All|
 |[**4-Machine Learning Notebooks**](https://github.com/dair-ai/ML-Notebooks)|ML,NLP,Transformers,Computer Vision,GAN|All|
 |[**5-Real-time-ML-Project**](https://github.com/ashishpatel26/Real-time-ML-Project)|Machine Learning and Data Science Applications in Industry|All|
