@@ -238,7 +238,7 @@ This project will modernize patient interactions, improve efficiency for healthc
  
 ##  📚Chapter: 1  **Database**
 
-| Topic Title | Link | Code |
+| Topic Title | Blog | Video |
 |---|---|---|
 | [**1-Building **](https://docs.google.com/document/d/1YfLZxg0mNAuQhWTqDrDkewkVgVnhIAoS/edit) | [**Dataset**](https://github.com/hussain0048/Projects-/blob/master/intentsnew%20(6).json) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Projects-/blob/master/Model_Training_2.ipynb) |-|
 
