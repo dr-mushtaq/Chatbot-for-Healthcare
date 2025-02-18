@@ -9,6 +9,7 @@
 
 This repository contains the development of a chatbot-based patient interaction system using ERPNext Healthcare as the backend and an Android app as the primary interface. The system assists Healthcare Assistants (HAs) and nurses in patient triage, data collection, and referral management, ensuring seamless integration with ERPNext's electronic medical records (EMR) module.
 
+[Steps to Set Up the GitHub Repository for Student Contributions](https://chatgpt.com/c/67b2d408-9298-800e-baf9-1bd1d07cb3c5)
 
 ## **Objectives🎯**
 
