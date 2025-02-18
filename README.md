@@ -473,14 +473,12 @@ Each student (or group) can be assigned specific modules of the project. For exa
 - Once they complete their portion, they submit a Pull Request (PR) to your main repository.
 - As the project owner, you review their PRs and merge them after approval.
 
-## ⚙️ Things to Note
+## ⚙️ **Tracking Student Contributions**
 
-* Make sure you do not copy codes from external sources because that work will not be considered. Plagiarism is strictly not allowed.
-* You can only work on issues that have been assigned to you.
-* If you want to contribute the algorithm, it's preferrable that you create a new issue before making a PR and link your PR to that issue.
-* If you have modified/added code work, make sure the code compiles before submitting.
-* Strictly use snake_case (underscore_separated) in your file_name and push it in correct folder.
-* Do not update the **[README.md](https://github.com/prathimacode-hub/ML-ProjectKart/blob/main/README.md).**
+- Use GitHub Issues: Assign tasks to students using GitHub issues.
+- Use Project Boards: GitHub Projects can help track progress.
+- Use Pull Request Reviews: To ensure code quality before merging.
+- Set Milestones: Define deadlines for each task.
 
   ## ⚙🔍 Explore more
   
