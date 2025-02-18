@@ -480,10 +480,16 @@ Each student (or group) can be assigned specific modules of the project. For exa
 - Use Pull Request Reviews: To ensure code quality before merging.
 - Set Milestones: Define deadlines for each task.
 
-  ## ⚙🔍 Explore more
+  ## ⚙ **Finalizing the Project**
   
-Explore Free world top University computer Vision ,NLP, Machine Learning , Deep Learning , Time Series and Python Projects, access insightful slides and source code, and tap into a wealth of free online websites, github repository related Machine Learning Projects. Connect with like-minded individuals on Reddit, Facebook, and beyond, and stay updated with our YouTube channel and GitHub repository. Don’t wait — enroll now and unleash your Machine Learning projects potential!”
-* [Machine Learning projects course](https://coursesteach.com/enrol/index.php?id=72)
+Once all contributions are merged:
+
+- Conduct a final review and clean up unnecessary files.
+  
+Generate a final report including
+- Contributions by each student.
+- A working demo.
+- Documentation for future users.
 
 ## **✨Top Contributors**
 We would love your help in making this repository even better! If you know of an amazing AI course that isn't listed here, or if you have any suggestions for improvement in any course content, feel free to open an issue or submit a course contribution request.
