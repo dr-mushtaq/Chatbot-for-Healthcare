@@ -453,19 +453,16 @@ Each student (or group) can be assigned specific modules of the project. For exa
 
 </details>
 
-## 💻 Workflow:
+## 💻 Workflow for Contributions:
 
-- Fork the repository
-
-- Clone your forked repository using terminal or gitbash.
-
-- Make changes to the cloned repository
-
-- Add, Commit and Push
-
-- Then in Github, in your cloned repository find the option to make a pull request 
-
-> print("Start contributing for Projects")
+1-**Students Fork the Repository**
+- Each student forks your GitHub repo to their account.
+- They work on their portion in their own forked repo.
+2- **Students Create Feature Branches**
+  
+- Instead of working directly on main, they create a feature branch:
+3- **SCommit & Push Changes**S
+- Students make changes, commit them, and push to their branch
 
 ## ⚙️ Things to Note
 
