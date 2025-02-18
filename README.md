@@ -479,13 +479,10 @@ Each student (or group) can be assigned specific modules of the project. For exa
 - Use Project Boards: GitHub Projects can help track progress.
 - Use Pull Request Reviews: To ensure code quality before merging.
 - Set Milestones: Define deadlines for each task.
-
-  ## ⚙ **Finalizing the Project**
   
+## ⚙ **Finalizing the Project**
 Once all contributions are merged:
-
 - Conduct a final review and clean up unnecessary files.
-  
 Generate a final report including
 - Contributions by each student.
 - A working demo.
