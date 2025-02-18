@@ -462,8 +462,8 @@ Each student (or group) can be assigned specific modules of the project. For exa
   
 2- **Students Create Feature Branches**
   
-- Instead of working directly on main, they create a feature branch:
-- 
+- Instead of working directly on main, they create a feature branch
+  
 3- **SCommit & Push Changes**S
   
 - Students make changes, commit them, and push to their branch
