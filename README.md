@@ -11,6 +11,8 @@ This repository contains the development of a chatbot-based patient interaction 
 
 [Steps to Set Up the GitHub Repository for Student Contributions](https://chatgpt.com/c/67b2d408-9298-800e-baf9-1bd1d07cb3c5)
 
+[🎯 Step-by-Step Guide to Assign Faculty as Admins for Sub-Branches](https://chatgpt.com/c/67b2d408-9298-800e-baf9-1bd1d07cb3c5)
+
 ## **Objectives🎯**
 
 1- Utilize ERPNext Healthcare as a scalable and open-source backend.
