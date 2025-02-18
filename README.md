@@ -483,6 +483,7 @@ Each student (or group) can be assigned specific modules of the project. For exa
 ## ⚙ **Finalizing the Project**
 Once all contributions are merged:
 - Conduct a final review and clean up unnecessary files.
+  
 Generate a final report including
 - Contributions by each student.
 - A working demo.
