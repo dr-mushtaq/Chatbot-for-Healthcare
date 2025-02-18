@@ -463,8 +463,15 @@ Each student (or group) can be assigned specific modules of the project. For exa
 2- **Students Create Feature Branches**
   
 - Instead of working directly on main, they create a feature branch:
+- 
 3- **SCommit & Push Changes**S
+  
 - Students make changes, commit them, and push to their branch
+
+4- **Submit Pull Requests (PRs)**
+
+- Once they complete their portion, they submit a Pull Request (PR) to your main repository.
+- As the project owner, you review their PRs and merge them after approval.
 
 ## ⚙️ Things to Note
 
