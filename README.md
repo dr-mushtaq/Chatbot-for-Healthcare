@@ -225,8 +225,8 @@ This project will modernize patient interactions, improve efficiency for healthc
 
 <details> 
 <summary> <h2>Catorgy 05 - ⚙️Student Contributions </h2> </summary>
-Each student (or group) can be assigned specific modules of the project. For example:
 Each student forks the repository and works on their assigned task.
+Each student (or group) can be assigned specific modules of the project. For example:
  
 | Module | Assigned To | Task |Created|Completed
 |---|---|---|---|---|
